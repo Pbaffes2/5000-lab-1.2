@@ -3,11 +3,9 @@ title: "simple_quarto_website"
 bibliography: reference.bib
 html:
     toc: true      # turn on table of contents
-    toc-depth: 3   # include H1, H2, H3
-    toc-location: left  # can be left, right, or top
 ---
 
-# Southeast Division (ADD MERMAID DIAGRAM)
+# Southeast Division
 
 Win/Loss for the Southeast Division in the 2024-2025 NBA season
 
@@ -57,6 +55,15 @@ Below is a jumpball from the Wizards vs Lakers on January 30th, 2025.
 </video>
 </div>
 
+
+```{mermaid}
+graph LR
+    A --> B
+    B --> C
+    C --> D 
+    C --> E
+    C --> F
+```
 
 Here is an inline text equation $Y=\beta_0 + \beta_1 x_1 + \beta_2 x_2 + \varepsilon$
 
