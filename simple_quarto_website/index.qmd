@@ -1,0 +1,78 @@
+---
+title: "simple_quarto_website"
+bibliography: reference.bib
+html:
+    toc: true      # turn on table of contents
+    toc-depth: 3   # include H1, H2, H3
+    toc-location: left  # can be left, right, or top
+---
+
+# Southeast Division (ADD MERMAID DIAGRAM)
+
+Win/Loss for the Southeast Division in the 2024-2025 NBA season
+
+| Team | Wins | Losses |
+| ----- | ----- | ----- |
+| Charlotte Hornets | 19 | 63 |
+| Miami Heat | 37 | 45 |
+| Washington Wizards | 18 | 64 |
+| Atlanta Hawks | 40 | 42 |
+| Orlando Magic | 41 | 41 |
+
+
+## Washington Wizards
+::: {layout-ncol=2}
+![Wizards current](images/wizards-log0.png){width=72%}
+
+![Wizards old](images/Old-wiz-logo.webp){width=100%}
+:::
+
+::: {.columns}
+::: {.column width="50%"}
+This is the current logo for the Wizards.
+:::
+
+::: {.column width="50%"}
+This was the previous logo for the Wizards
+:::
+
+The Wizards finished with the worst record in the Southeast Division and the second worst record in the NBA.
+
+Their most common starting lineup consisted of the following players:
+
+- Bub Carrington
+- Jordan Poole
+- Bilal Coulibaly
+- Kyle Kuzma
+- Alex Sarr
+
+>At this point its like "Don't be that team" - Kyle Kuzma
+
+Below is a jumpball from the Wizards vs Lakers on January 30th, 2025.
+
+<div>
+<video width="600" controls>
+  <source src="images/Wiz_Lakers.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</div>
+
+
+Here is an inline text equation $Y=\beta_0 + \beta_1 x_1 + \beta_2 x_2 + \varepsilon$
+
+# Oil
+
+Lets go over oil prices
+
+![Oil Rig](images/oil-rig.jpeg)
+
+## Oil demand
+Standard demand equation:
+
+$$c_t = \mu + \theta_1 y_t + \theta_2 y_t^2 + \theta_3 p_t + \phi' X_t + \varepsilon_t 
+$$ [@baffes2022role]
+
+
+Oil prices tend to change based on certain factors.[^1]   
+
+[^1]: See Baffes (2007) [@baffes2007oil] for more details.  

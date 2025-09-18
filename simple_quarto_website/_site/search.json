@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html#section-1.1",
+    "href": "about.html#section-1.1",
+    "title": "About",
+    "section": "Section 1.1",
+    "text": "Section 1.1\nThis is a subsection of my first section."
+  },
+  {
+    "objectID": "about.html#section-1.1.1",
+    "href": "about.html#section-1.1.1",
+    "title": "About",
+    "section": "Section 1.1.1",
+    "text": "Section 1.1.1\nThis is the subsection to the subsection of my first section.\n\nimport seaborn as sns\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx= np.arange(0,10)\ny= np.arange(0,10)\n\nplt.plot(x, y)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Win/Loss for the Southeast Division in the 2024-2025 NBA season\n\n\n\nTeam\nWins\nLosses\n\n\n\n\nCharlotte Hornets\n19\n63\n\n\nMiami Heat\n37\n45\n\n\nWashington Wizards\n18\n64\n\n\nAtlanta Hawks\n40\n42\n\n\nOrlando Magic\n41\n41\n\n\n\n\n\n\n\n\n\n\n\nWizards current\n\n\n\n\n\n\n\nWizards old\n\n\n\n\n\n\n\nThis is the current logo for the Wizards.\n\nThis was the previous logo for the Wizards\nThe Wizards finished with the worst record in the Southeast Division and the second worst record in the NBA.Their most common starting lineup consisted of the following players:\nBub Carrington\nJordan Poole\nBilal Coulibaly\nKyle Kuzma\nAlex Sarr\n\nAt this point its like “Don’t be that team” - Kyle Kuzma\nBelow is a jumpball from the Wizards vs Lakers on January 30th, 2025.\n\n\nYour browser does not support the video tag. \n\nHere is an inline text equation \\(Y=\\beta_0 + \\beta_1 x_1 + \\beta_2 x_2 + \\varepsilon\\)\n\n\nLets go over oil prices\n\n\n\nOil Rig\n\n\n\n\nStandard demand equation:\n\\[c_t = \\mu + \\theta_1 y_t + \\theta_2 y_t^2 + \\theta_3 p_t + \\phi' X_t + \\varepsilon_t\n\\] (Baffes, Kabundi, and Nagle 2022)\nOil prices tend to change based on certain factors.1"
+  },
+  {
+    "objectID": "index.html#washington-wizards",
+    "href": "index.html#washington-wizards",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Wizards current\n\n\n\n\n\n\n\nWizards old\n\n\n\n\n\n\n\nThis is the current logo for the Wizards.\n\nThis was the previous logo for the Wizards\nThe Wizards finished with the worst record in the Southeast Division and the second worst record in the NBA.Their most common starting lineup consisted of the following players:\nBub Carrington\nJordan Poole\nBilal Coulibaly\nKyle Kuzma\nAlex Sarr\n\nAt this point its like “Don’t be that team” - Kyle Kuzma\nBelow is a jumpball from the Wizards vs Lakers on January 30th, 2025.\n\n\nYour browser does not support the video tag. \n\nHere is an inline text equation \\(Y=\\beta_0 + \\beta_1 x_1 + \\beta_2 x_2 + \\varepsilon\\)\n\n\nLets go over oil prices\n\n\n\nOil Rig\n\n\n\n\nStandard demand equation:\n\\[c_t = \\mu + \\theta_1 y_t + \\theta_2 y_t^2 + \\theta_3 p_t + \\phi' X_t + \\varepsilon_t\n\\] (Baffes, Kabundi, and Nagle 2022)\nOil prices tend to change based on certain factors.1"
+  },
+  {
+    "objectID": "index.html#oil-demand",
+    "href": "index.html#oil-demand",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Standard demand equation:\n\\[c_t = \\mu + \\theta_1 y_t + \\theta_2 y_t^2 + \\theta_3 p_t + \\phi' X_t + \\varepsilon_t\n\\] (Baffes, Kabundi, and Nagle 2022)\nOil prices tend to change based on certain factors.1"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nSee Baffes (2007) (Baffes 2007) for more details.↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#slide-1",
+    "href": "slides/slides.html#slide-1",
+    "title": "My First Ever Slideshow",
+    "section": "Slide 1",
+    "text": "Slide 1\nThis is my first slide"
+  },
+  {
+    "objectID": "slides/slides.html#georgetown",
+    "href": "slides/slides.html#georgetown",
+    "title": "My First Ever Slideshow",
+    "section": "Georgetown!",
+    "text": "Georgetown!\nThis is an image of Georgetown University."
+  },
+  {
+    "objectID": "slides/slides.html#umd",
+    "href": "slides/slides.html#umd",
+    "title": "My First Ever Slideshow",
+    "section": "UMD!",
+    "text": "UMD!\nThis is an image of the University of Maryland."
+  },
+  {
+    "objectID": "slides/slides.html#oil",
+    "href": "slides/slides.html#oil",
+    "title": "My First Ever Slideshow",
+    "section": "Oil!",
+    "text": "Oil!\nOil prices fell between June 2014 and January 2015, a significant drop, but not unprecedented. (Baffes et al. 2015)"
+  },
+  {
+    "objectID": "slides/slides.html#code",
+    "href": "slides/slides.html#code",
+    "title": "My First Ever Slideshow",
+    "section": "Code!",
+    "text": "Code!\n\n\nCode\nimport seaborn as sns\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx= np.arange(0,10)\ny= np.arange(0,10)\n\nplt.plot(x, y)\nplt.show()\n\nprint(\"This is my amazing line\")\n\n\n\n\n\n\n\n\n\nThis is my amazing line"
+  },
+  {
+    "objectID": "slides/slides.html#citations",
+    "href": "slides/slides.html#citations",
+    "title": "My First Ever Slideshow",
+    "section": "Citations!",
+    "text": "Citations!\n\n\n\n\nBaffes, John, M Ayhan Kose, Franziska Ohnsorge, and Marc Stocker. 2015. “The Great Plunge in Oil Prices: Causes, Consequences, and Policy Responses.” Consequences, and Policy Responses (June 2015)."
+  }
+]
